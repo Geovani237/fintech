@@ -1,2 +1,2 @@
 # fintech
- desenvolvendo um app para a área de finanças 
+ Desenvolvendo um app para a área de finanças
